@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    {
+      "when": { "lit": "true" },
+      "apply": { "model": "minecraft:block/chicha_lit" }
+    },
+    {
+      "when": { "lit": "false" },
+      "apply": { "model": "minecraft:block/chicha_unlit" }
+    }
+  ]
+}
