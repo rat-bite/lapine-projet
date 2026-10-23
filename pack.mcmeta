@@ -1,7 +1,6 @@
 {
   "pack": {
-    "description": "Lapine 💗 Kawaii Pack, and more...",
-    "min_format": [88, 0],
-    "max_format": [214748364, 0]
+    "pack_format": 97,
+    "description": "Lapine 💗 Kawaii Pack, and more..."
   }
 }
