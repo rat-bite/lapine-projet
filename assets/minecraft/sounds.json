@@ -1,0 +1,32 @@
+{
+  "entity.arrow.hit_player": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/headshot",
+        "pitch": 2,
+        "volume": 1
+      }
+    ]
+  },
+  "entity.arrow.shoot": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/bow_new",
+        "pitch": 1,
+        "volume": 1.5
+      }
+    ]
+  },
+  "item.crossbow.shoot": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/awp",
+        "pitch": 1,
+        "volume": 1.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:using_item",
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/awp_loading"
+    },
+    "on_false": {
+      "type": "minecraft:select",
+      "property": "minecraft:charge_type",
+      "cases": [
+        {
+          "when": [
+            "arrow",
+            "rocket"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/awp_charged"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/awp"
+      }
+    }
+  }
+}
