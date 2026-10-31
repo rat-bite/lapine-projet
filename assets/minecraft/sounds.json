@@ -19,6 +19,16 @@
       }
     ]
   },
+  "entity.creeper.primed": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity/creeper/fuse",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
   "item.crossbow.shoot": {
     "replace": true,
     "sounds": [
