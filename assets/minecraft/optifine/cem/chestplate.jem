@@ -1,0 +1,89 @@
+{
+  "textureSize": [
+    64,
+    32
+  ],
+  "models": [
+    {
+      "part": "body",
+      "id": "body",
+      "attach": false,
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -4,
+            0,
+            -2,
+            8,
+            12,
+            4
+          ],
+          "textureOffset": [
+            16,
+            16
+          ],
+          "sizeAdd": 0.05
+        }
+      ]
+    },
+    {
+      "part": "right_arm",
+      "id": "right_arm",
+      "attach": false,
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -3,
+            -2,
+            -2,
+            4,
+            12,
+            4
+          ],
+          "textureOffset": [
+            40,
+            16
+          ],
+          "sizeAdd": 0.05
+        }
+      ]
+    },
+    {
+      "part": "left_arm",
+      "id": "left_arm",
+      "attach": false,
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -1,
+            -2,
+            -2,
+            4,
+            12,
+            4
+          ],
+          "textureOffset": [
+            40,
+            16
+          ],
+          "sizeAdd": 0.05
+        }
+      ]
+    }
+  ]
+}

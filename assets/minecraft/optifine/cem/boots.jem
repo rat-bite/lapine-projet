@@ -1,0 +1,62 @@
+{
+  "textureSize": [
+    64,
+    32
+  ],
+  "models": [
+    {
+      "part": "right_leg",
+      "id": "right_leg",
+      "attach": false,
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -2,
+            0,
+            -2,
+            4,
+            12,
+            4
+          ],
+          "textureOffset": [
+            0,
+            16
+          ],
+          "sizeAdd": 0.05
+        }
+      ]
+    },
+    {
+      "part": "left_leg",
+      "id": "left_leg",
+      "attach": false,
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -2,
+            0,
+            -2,
+            4,
+            12,
+            4
+          ],
+          "textureOffset": [
+            0,
+            16
+          ],
+          "sizeAdd": 0.05
+        }
+      ]
+    }
+  ]
+}

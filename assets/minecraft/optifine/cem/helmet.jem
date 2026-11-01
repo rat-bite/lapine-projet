@@ -7,7 +7,7 @@
     {
       "part": "head",
       "id": "head",
-      "invertAxis": "xy",
+      "attach": false,
       "translate": [
         0,
         0,
@@ -17,7 +17,7 @@
         {
           "coordinates": [
             -4,
-            0,
+            -8,
             -4,
             8,
             8,
@@ -27,41 +27,13 @@
             0,
             0
           ],
-          "sizeAdd": 1.0
-        },
-        {
-          "coordinates": [
-            0.9,
-            8.6,
-            -0.5,
-            3,
-            8,
-            1
-          ],
-          "textureOffset": [
-            32,
-            0
-          ]
-        },
-        {
-          "coordinates": [
-            -3.9,
-            8.6,
-            -0.5,
-            3,
-            8,
-            1
-          ],
-          "textureOffset": [
-            32,
-            0
-          ]
+          "sizeAdd": 0.05
         },
         {
           "coordinates": [
             -1.5,
-            0.5,
-            -7.0,
+            -3.5,
+            -6.0,
             3,
             3,
             2
