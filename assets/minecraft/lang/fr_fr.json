@@ -1,5 +1,13 @@
 {
   "jukebox_song.minecraft.cat": "Rick Astley - Never Gonna Give You Up",
   "jukebox_song.minecraft.blocks": "Bad Apple!!",
-  "jukebox_song.minecraft.chirp": "Capybara"
+  "jukebox_song.minecraft.chirp": "Capybara",
+  "item.minecraft.redstone": "Cum",
+  "block.minecraft.redstone_block": "Bloc de cum",
+  "block.minecraft.redstone_ore": "Minerai de cum",
+  "block.minecraft.deepslate_redstone_ore": "Minerai de cum des abîmes",
+  "block.minecraft.redstone_torch": "Torche de cum",
+  "block.minecraft.redstone_wall_torch": "Torche de cum murale",
+  "block.minecraft.redstone_lamp": "Lampe de cum",
+  "block.minecraft.redstone_wire": "Poussière de cum"
 }

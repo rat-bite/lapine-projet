@@ -2,5 +2,13 @@
   "item.minecraft.bow": "Desert Eagle",
   "item.minecraft.arrow": "Bullet",
   "entity.minecraft.arrow": "Bullet",
-  "item.minecraft.crossbow": "AWP"
+  "item.minecraft.crossbow": "AWP",
+  "item.minecraft.redstone": "Cum",
+  "block.minecraft.redstone_block": "Block of Cum",
+  "block.minecraft.redstone_ore": "Cum Ore",
+  "block.minecraft.deepslate_redstone_ore": "Deepslate Cum Ore",
+  "block.minecraft.redstone_torch": "Cum Torch",
+  "block.minecraft.redstone_wall_torch": "Cum Wall Torch",
+  "block.minecraft.redstone_lamp": "Cum Lamp",
+  "block.minecraft.redstone_wire": "Cum Wire"
 }
